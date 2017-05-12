@@ -37,7 +37,7 @@ The result would be written in your terminal window:
 
 Write a simple alias in your .bash_rc, .bash_completion or similar like this:
 
-    alias tyda='/home/you/path/to/tyda.py'
+    alias tyda='/home/your/path/to/tyda.py'
 
 After that you can translate anywhere in your terminal window by typing:
 
