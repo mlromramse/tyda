@@ -23,4 +23,5 @@ if __name__ == '__main__':
     if len(sys.argv) < 2 or sys.argv[1][:1] == '-':
         print 'usage: tyda search_word'
         exit(0)
-    Tyda().tyd(sys.argv[1])
+    words = ' '.join(sys.argv[1:])
+    Tyda().tyd(words)
