@@ -22,13 +22,41 @@ After that a translation can be made with:
 
 The result would be written in your terminal window:
 
+    Did you mean:
+       Engelska
+        - translation
+        - translation agency
+        - translation bureau
+        - translation contract
+        - translation department
+       Svenska
+        - translation
+        - translationell
+        - translationshastighet
+        - translationsrörelse
+    
     translation
-    översättning
-    tolkning
-    återgivning
-    transformering
+       TRANSLATIONS
+          Engelska
+           - translation
     translation
-    omvandling
+       SYNONYMS
+        -  interpretation 
+        -  rendering 
+        -  version 
+        -  interlingual rendition 
+        -  transformation 
+        -  assumption [ religion ]
+        -  changeover 
+        -  conversion 
+       TRANSLATIONS
+          Svenska
+           - översättning
+           - tolkning
+           - återgivning
+           - transformering
+           - translation
+           - omvandling
 
 
 
@@ -41,6 +69,6 @@ Write a simple alias in your .bash_rc, .bash_completion or similar like this:
 
 After that you can translate anywhere in your terminal window by typing:
 
-    tyda the_word_you_want_to_translate
+    tyda the words you want to translate
 
 
