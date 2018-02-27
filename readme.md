@@ -41,14 +41,14 @@ The result would be written in your terminal window:
            - translation
     translation
        SYNONYMS
-        -  interpretation 
-        -  rendering 
-        -  version 
-        -  interlingual rendition 
-        -  transformation 
+        -  interpretation
+        -  rendering
+        -  version
+        -  interlingual rendition
+        -  transformation
         -  assumption [ religion ]
-        -  changeover 
-        -  conversion 
+        -  changeover
+        -  conversion
        TRANSLATIONS
           Svenska
            - översättning
@@ -63,7 +63,7 @@ The result would be written in your terminal window:
 
 ## Usage tip
 
-Write a simple alias in your .bash_rc, .bash_completion or similar like this:
+Write a simple alias in your .bash_rc, .bash_aliases .bash_completion or similar like this:
 
     alias tyda='/home/your/path/to/tyda.py'
 
